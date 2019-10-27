@@ -1,0 +1,27 @@
+{
+  "name": "react-native-blur-component",
+  "version": "1.0.0",
+  "description": "\"A simple blur effect for react native views\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibrahim-mousa/react-native-blur-component.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-component",
+    "react-native-blur"
+  ],
+  "author": "Ibrahim Mousa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ibrahim-mousa/react-native-blur-component/issues"
+  },
+  "homepage": "https://github.com/ibrahim-mousa/react-native-blur-component#readme",
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  }
+}
